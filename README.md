@@ -10,3 +10,5 @@ tensorflow_hub,
 numpy,
 pandaspd,
 geopy.geocoders import Nominatim
+
+These are the things required for the above code to work.
